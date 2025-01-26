@@ -1,6 +1,5 @@
-int i,j;
-
-if i in range (0,5):
-    if j in range (0,5):
+def pyramids():
+  for i in range (0,5):
+    for j in range (0,5):
         print("*")
-print()
+  print()
